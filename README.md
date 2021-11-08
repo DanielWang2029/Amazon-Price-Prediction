@@ -4,3 +4,5 @@
 ## 3. Phase 3: Machine Learning
 
 Data Source: https://jmcauley.ucsd.edu/data/amazon/
+Price Prediction: Electronics Metadata
+Reviews: Video Games Reviews
