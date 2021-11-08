@@ -5,4 +5,11 @@
 
 Data Source: https://jmcauley.ucsd.edu/data/amazon/
 Price Prediction: Electronics Metadata
+Sentiment Analysis: Video Game Review Data
 Reviews: Video Games Reviews
+
+## Instruction for Sentiment Analysis
+
+1. Install required packages using command "pip install -r requirements.txt".
+
+2. Run source code using command 'python SentimentAnalysis.py'.
