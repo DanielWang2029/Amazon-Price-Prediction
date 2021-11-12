@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09545601-d02b-42fb-95ed-a98c0f5f3949" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Video_Games.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Video_Games_5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/PolarSubScatter.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/RatingSentimentBoxplot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/RatingSentimentScatter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/SentimentHist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graphs/wordcloud.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sentiment Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment Analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="09545601-d02b-42fb-95ed-a98c0f5f3949" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +54,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
