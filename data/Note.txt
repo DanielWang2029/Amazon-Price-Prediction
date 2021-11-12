@@ -1,1 +1,8 @@
 Data acquired from https://nijianmo.github.io/amazon/index.html.
+Need to extract .json file from .json.gz file by decompression.
+
+Video_Games.json:
+http://deepyeti.ucsd.edu/jianmo/amazon/categoryFiles/Video_Games.json.gz
+
+meta_Appliances.json:
+http://deepyeti.ucsd.edu/jianmo/amazon/metaFiles2/meta_Appliances.json.gz
