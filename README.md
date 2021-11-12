@@ -1,15 +1,41 @@
 # Amazon-Price-Prediction
-## 1. Phase 1: Clean and Condense the data (11.1.2021)
-## 2. Phase 2: EDA
-## 3. Phase 3: Machine Learning
 
-Data Source: https://jmcauley.ucsd.edu/data/amazon/
+## About Our Project
+
+1. Clean and Condense the data
+
+2. Exploratory Data Analysis
+
+3. Sentiment Analysis
+
+4. Price Prediction
+
+
+## Data Sourses
+
+We retrieved our data from https://jmcauley.ucsd.edu/data/amazon/, specifically:
+
 Price Prediction: Electronics Metadata
+
 Sentiment Analysis: Video Game Review Data
-Reviews: Video Games Reviews
 
-## Instruction for Sentiment Analysis
+Direct links and guidelines are provided in data/notes.txt.
 
-1. Install required packages using command "pip install -r requirements.txt".
 
-2. Run source code using command 'python SentimentAnalysis.py'.
+## Instructions for running our codes
+
+### 1. Packages Installation and Data Download
+
+1.1 Install Pytorch with costom settings (https://pytorch.org/get-started/locally/)
+
+1.2 Install other required packages using command "pip install -r requirements.txt"
+
+1.3 Download data from links in data/notes.txt
+
+### 2. Sentiment Analysis
+
+2.1 Run source code using command 'python SentimentAnalysis.py'.
+
+### 3. Price Prediction
+
+3.1 Run source code using command 'python PricePredictionML.py'.
